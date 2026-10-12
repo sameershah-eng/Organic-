@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Collective",
+  "description": "Unified creative studio uniting spatial architecture, handcrafted furniture objects, and brand digital direction into singular works of enduring beauty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
